@@ -289,8 +289,6 @@ p.admonition-title:after {
 pre {
     font: 12px/18px 'Droid Sans Mono', arial, serif;
     padding: 10px;
-    background-color: #fcfadd;
-    color: #222222;
     line-height: 1.5em;
     font-size: 1.1em;
     margin: 1.5em 0 1.5em 0;
